@@ -1,0 +1,1 @@
+This project is from [The Odin Project](https://www.theodinproject.com/courses/databases/lessons/sql)
